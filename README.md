@@ -1,4 +1,4 @@
 # wandb-cicd
 
 
-This ara demos 
+this are demos 
