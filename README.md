@@ -1,4 +1,4 @@
 # wandb-cicd
 
 
-this are demos 
+this are github-actions demos 
